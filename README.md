@@ -38,6 +38,7 @@ This is the collection of tools and technologies I've been working with and lear
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/FastAPI-00AC9E?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
 </p>
 
 
